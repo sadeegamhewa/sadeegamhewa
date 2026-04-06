@@ -1,16 +1,14 @@
-## Hi there 👋
+# Sadee Gamhewa
 
-<!--
-**sadeegamhewa/sadeegamhewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of [Velou](https://velou.com) — AI-powered product data enrichment for commerce, processing 100M+ products with 100+ structured attributes per SKU.
+ 
+### What I'm focused on
+ 
+- Building eval pipelines to improve AI-powered products
+- Fine-tuning open-source vision-language models for classification at scale
+- Leverage AI-first engineering workflows to scale
+ 
+### Connect
+ 
+- [velou.com](https://velou.com)
+- [@sadeegamhewa](https://x.com/sadeegamhewa)
