@@ -6,7 +6,7 @@ Founder of [Velou](https://velou.com) — AI-powered product data enrichment for
  
 - Building eval pipelines to improve AI-powered products
 - Fine-tuning open-source vision-language models for classification at scale
-- Leveraging AI-first engineering workflows to scale eng teams
+- Leveraging AI-first workflows to scale product/engineering teams
  
 ### Connect
  
