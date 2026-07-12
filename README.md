@@ -11,4 +11,4 @@ Two rich models in different languages can't connect. Most systems build one sid
 
 Founder of [Velou](https://velou.com). This is the problem I work on.
 
-Writing → **[sadeegamhewa.com](https://sadeegamhewa.com)**  ·  [X](https://x.com/sadeegamhewa)  ·  [LinkedIn](https://www.linkedin.com/in/sadee)
+Writing → **[sadeegamhewa.com](https://sadeegamhewa.com)**  ·  [X](https://x.com/sadeegamhewa)  ·  [LinkedIn](https://www.linkedin.com/in/sadeegamhewa)
