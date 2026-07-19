@@ -1,13 +1,13 @@
 ### Sadee Gamhewa
 
-I build systems that turn **intent into action** — read what a person actually wants, connect it to the right thing, act on it.
+I build systems that turn **intent into action**: read what a person actually means, connect it to the right option, act on it, and measure that the action was right.
 
-It only works when both sides are modeled as **ontologies**, in the same terms:
+It only works when both sides are understood, and written into **one shared ontology**:
 
-- **the person** — what they mean, their context and goals, as structure — not a clickstream
-- **the options** — the things (or actions) they could be connected to, represented deeply enough to be found
+- **the person**: what they mean, their context and goals, as structure, not a clickstream
+- **the options**: everything they could be matched with, described deeply enough to be found
 
-Two rich models in different languages can't connect. Most systems build one side well and guess at the other. Then you close the loop with **evals** so the model learns. A connection is only as good as the weaker of the two ontologies.
+Most systems model one side well and guess at the other, and a connection is only as good as the weaker of the two understandings. Then **evals** close the loop: the harness that separates a convincing demo from a system.
 
 Founder of [Velou](https://velou.com). This is the problem I work on.
 
